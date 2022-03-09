@@ -1,0 +1,16 @@
+.title {
+    color: var(--secondary);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.125rem;
+    line-height: 1.3rem;
+}
+
+.sub-title {
+    color: var(--primary);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 78px;
+    max-width: 832px;
+}
