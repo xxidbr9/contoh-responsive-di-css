@@ -99,7 +99,7 @@ ul.navbar__items>li.navbar__item+.active {
     height: 100vh;
 }
 
-@media screen and (max-width: 392px) {
+@media screen and (max-width: 430px) {
     .navbar__items {
         display: none !important;
     }
