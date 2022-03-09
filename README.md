@@ -4,4 +4,4 @@
 
 
 
-link live project : https://xxidbr9.github.com/contoh-responsive-di-css
+link live project : https://xxidbr9.github.io/contoh-responsive-di-css
